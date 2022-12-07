@@ -1,2 +1,2 @@
 # wildfire_normalization
- SIE555 Spatial Database Design Final Project Repository
+This is the Final Project Repository for SIE555 Spatial Database Design. This final project is a database decomposition of Canadian National Wildfire Point Ignition data. The goal of this project is to create a data flow from Python to PostgreSQL and normalize data to improve query performance. This is the sister project to my wildfire modelling project completed in R. The repository to that project will be made available when it is online. If you are interested in the source data, it can be accessed here: https://cwfis.cfs.nrcan.gc.ca/datamart/metadata/nfdbpnt
